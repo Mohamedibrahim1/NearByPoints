@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Near By Points</string>
+    <string name="title_activity_search_places">Places Found</string>
+    <string name="title_activity_pop">PopActivity</string>
+    <string name="hint1">To get Most Places near to you, Click on Locate me in The Right Bottom</string>
+    <string name="hint2">To make a place as a favorite check the CheckBox</string>
+    <string name="hint3">To delete a place from your favorite uncheck the CheckBox</string>
+    <string name="waitingMsg">Retrieving data, Please wait... </string>
+</resources>
